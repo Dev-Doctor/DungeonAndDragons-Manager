@@ -1,0 +1,56 @@
+:root {
+    --HB_Color_Background: #EEE5CE;
+    --HB_Color_Accent: #E0E5C1;
+    --HB_Color_HeaderUnderline: #C0AD6A;
+    --HB_Color_HorizontalRule: #9C2B1B;
+    --HB_Color_HeaderText: #58180D;
+    --HB_Color_MonsterStatBackground: #F2E5B5;
+    --HB_Color_CaptionText: #766649;
+    --HB_Color_WatercolorStain: #BBAD82;
+    --HB_Color_Footnotes: #C9AD6A
+}
+
+body {
+    background-image: url('../assets/parchmentBackground.jpg');
+}
+
+code {
+    padding: 0px 4px;
+    /* font-size: .325cm; */
+    color: #58180D;
+    background-color: #FAF7EA;
+    border-radius: 4px
+}
+
+.Bookinsanity {
+    font-family: 'Bookinsanity';
+}
+
+.ZatannaMisdirection {
+    font-family: 'ZatannaMisdirection';
+}
+
+.NodestoCapsCondensed {
+    font-family: 'NodestoCapsCondensed';
+}
+
+.MrEavesSmallCaps {
+    font-family: 'MrEavesSmallCaps';
+}
+
+.ScalySans {
+    font-family: 'ScalySans';
+}
+
+.SolberaImitation {
+    font-family: 'SolberaImitation';
+}
+
+.DungeonDropCase {
+    font-family: 'DungeonDropCase';
+}
+
+.header {
+    font-family: 'MrEavesSmallCaps';
+    color: var(--HB_Color_HeaderText)
+}
